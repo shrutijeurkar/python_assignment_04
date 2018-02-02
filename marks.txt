@@ -1,0 +1,6 @@
+Sub	A	B	C
+Alice	30	20	30
+
+Bob	15	28	30 
+
+Kumar	35	20.5	32 
